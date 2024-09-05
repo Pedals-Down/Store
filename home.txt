@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Your one-stop shop for high-quality electric bikes in Charlotte, NC. Explore our collection and ride into the future with eco-friendly transportation.">
+  <title>Charlotte Electric Bikes | Home</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #4CAF50;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      text-align: center;
+      margin: 20px;
+    }
+    nav a {
+      margin: 0 15px;
+      text-decoration: none;
+      color: #333;
+      font-weight: bold;
+    }
+    section {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    footer {
+      background-color: #333;
+      color: white;
+      text-align: center;
+      padding: 10px;
+      position: fixed;
+      width: 100%;
+      bottom: 0;
+    }
+    .cta {
+      background-color: #4CAF50;
+      color: white;
+      padding: 10px 20px;
+      text-align: center;
+      display: inline-block;
+      margin-top: 20px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .cta:hover {
+      background-color: #45a049;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Charlotte Electric Bikes</h1>
+    <p>Your Trusted Electric Bike Retailer in Charlotte, NC</p>
+  </header>
+
+  <nav>
+    <a href="#shop">Shop Now</a>
+    <a href="#about">About Us</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="welcome">
+    <h2>Welcome to Charlotte Electric Bikes</h2>
+    <p>We provide high-quality electric bikes that make your ride around Charlotte easier, faster, and greener. Whether you're commuting to work, running errands, or exploring the city, our range of e-bikes are designed to get you where you need to go in style and comfort.</p>
+    <a class="cta" href="#shop">Browse Our Collection</a>
+  </section>
+
+  <section id="about">
+    <h2>Why Choose Us?</h2>
+    <p>At Charlotte Electric Bikes, we are passionate about eco-friendly transportation. Our electric bikes offer a sustainable alternative to traditional vehicles, allowing you to reduce your carbon footprint while enjoying the convenience of an electric-powered ride. As a local business, we pride ourselves on providing excellent customer service and high-quality products to our Charlotte community.</p>
+  </section>
+
+  <section id="contact">
+    <h2>Get in Touch</h2>
+    <p>Have questions? Need help choosing the right bike? Contact our team today, and we’ll be happy to assist you.</p>
+    <p>Email: <a href="mailto:info@charlotteelectricbikes.com">info@charlotteelectricbikes.com</a></p>
+    <p>Phone: (555) 123-4567</p>
+    <p>Visit us: 1234 Electric Ave, Charlotte, NC</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2024 Charlotte Electric Bikes | All Rights Reserved</p>
+  </footer>
+</body>
+</html>
