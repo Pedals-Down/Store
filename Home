@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Charlotte Bicycles | Your Local Bicycle Retail Store</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Roboto', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+    }
+    header {
+      background-color: #004080;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      margin: 20px 0;
+      text-align: center;
+    }
+    nav a {
+      color: #004080;
+      text-decoration: none;
+      margin: 0 15px;
+      font-weight: bold;
+    }
+    .hero {
+      background-image: url('https://via.placeholder.com/1200x500'); /* Replace with your actual image URL */
+      background-size: cover;
+      background-position: center;
+      color: white;
+      padding: 100px 20px;
+      text-align: center;
+    }
+    .hero h1 {
+      font-size: 3em;
+    }
+    .content {
+      padding: 40px 20px;
+      text-align: center;
+    }
+    .content h2 {
+      font-size: 2.5em;
+      color: #004080;
+    }
+    .content p {
+      font-size: 1.2em;
+      color: #333;
+    }
+    .store-info {
+      display: flex;
+      justify-content: space-around;
+      padding: 20px;
+      background-color: #e6f2ff;
+    }
+    .store-info div {
+      width: 30%;
+      text-align: left;
+    }
+    footer {
+      background-color: #004080;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    footer p {
+      margin: 0;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Charlotte Bicycles</h1>
+    <p>Your Local Bicycle Retail Store in Charlotte, NC</p>
+  </header>
+
+  <nav>
+    <a href="#about">About Us</a>
+    <a href="#services">Services</a>
+    <a href="#contact">Contact Us</a>
+  </nav>
+
+  <div class="hero">
+    <h1>Ride into Adventure with Charlotte's Best Bikes</h1>
+    <p>Sales | Rentals | Repairs</p>
+  </div>
+
+  <section class="content" id="about">
+    <h2>About Us</h2>
+    <p>Charlotte Bicycles has been proudly serving the Charlotte community for over 15 years. Whether you're looking for a new bike, accessories, or just a quick tune-up, we've got you covered. Our expert team is passionate about biking and ready to help you find the perfect ride.</p>
+  </section>
+
+  <section class="content" id="services">
+    <h2>Our Services</h2>
+    <p>We offer a wide variety of bicycles for sale, ranging from mountain bikes to road bikes, hybrids, and more. Need a bike for a day or a week? We have rentals available too! Our full-service repair shop will get your bike back on the road in no time.</p>
+  </section>
+
+  <section class="store-info" id="contact">
+    <div>
+      <h3>Visit Us</h3>
+      <p>123 Bike Lane<br>Charlotte, NC 28202</p>
+    </div>
+    <div>
+      <h3>Store Hours</h3>
+      <p>Mon - Fri: 9am - 7pm<br>Sat: 9am - 5pm<br>Sun: Closed</p>
+    </div>
+    <div>
+      <h3>Contact</h3>
+      <p>Phone: (704) 123-4567<br>Email: info@charlottebicycles.com</p>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2024 Charlotte Bicycles. All rights reserved.</p>
+  </footer>
+
+</body>
+</html> 
